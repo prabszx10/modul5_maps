@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\font_chonburi.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\font\\chonburi.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buildings.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\buildings.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_university.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\university.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_round2.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\round2.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_medical.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\medical.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_location.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\location.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_security.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\security.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\font_comfortaa_bold.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\font\\comfortaa_bold.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pin.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\pin.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_backgroundd.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\backgroundd.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button.jpg.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\drawable-v24\\button.jpg"
+    },
+    {
+        "merged": "D:\\AndroidStudioProjects\\Mapss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\AndroidStudioProjects\\Mapss\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
